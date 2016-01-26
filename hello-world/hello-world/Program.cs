@@ -12,6 +12,8 @@ namespace hello_world
         {
             Console.WriteLine("hello world");
             Console.WriteLine("wtf");
+            Console.WriteLine("witaj swiecie");
+            Console.ReadLine();
         }
     }
 }
